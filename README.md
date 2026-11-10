@@ -4,7 +4,7 @@
   <p align="center">
     <a href="#" style="text-decoration:none;underline:none;">
       <img
-        src="https://komarev.com/ghpvc/?username=eng-gabrielscardoso&color=blueviolet&style=for-the-badge"
+        src="https://komarev.com/ghpvc/?username=antianthropic&color=blueviolet&style=for-the-badge"
         alt="Profile Counter"
         title="Profile Counter"
       >
@@ -21,7 +21,7 @@
       />
     </a>
     <a
-      href="https://www.linkedin.com/in/eng-gabrielscardoso/"
+      href="https://www.linkedin.com/in/antianthropic/"
       target="_blank"
       style="text-decoration:none;underline:none;"
     >
